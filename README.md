@@ -12,7 +12,7 @@ N/A
 
 Access the webite via its url and follow the list of topics on the website homepage from top to bottom. The four topics covered by the study guide are HTML, CSS, Git, and JavaScript. Each topic is features notes with helpful information to assist in learning the topic. If you access the DevTools console you van see the JavaScript at work.
 
-## Creits
+## Credits
 
 N/A
 
